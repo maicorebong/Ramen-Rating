@@ -1,0 +1,1 @@
+Used word analysis and numerical features to uncover trends like production dominance, flavor preference, and ratings. Applied Dummy Classifier, Logistics Regression, Decision Trees, and Random Forests to predict ramen ratings.
